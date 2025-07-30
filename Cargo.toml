@@ -1,0 +1,8 @@
+[package]
+name = "neith-core"
+version = "0.1.0"
+edition = "2024"
+description = "The Neith Project Core"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
